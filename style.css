@@ -1,0 +1,62 @@
+body { 
+}
+
+.principal{
+	background: #CCCCCC;
+}
+
+.secundario{
+	background: #bbb8d8
+}
+
+p {
+	text-align: center; font-size:30px;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+h1 {
+	text-align: center; font-size:40px;
+}
+
+h2 {
+	text-align: center; font-size:40px;
+}
+
+h3 {
+	text-align: center; font-size:40px;
+}
+
+h4 {
+	text-align: center; font-size:40px;
+}
+
+h5 {
+	text-align: center; font-size:40px;
+}
+
+#banner{
+	width:100%;
+}
+
+#pais{
+	width:50%;
+}
+
+#jogadores{
+	width:50%;
+}
+
+#camisa{
+	width:50%;
+}
+
+#brasil{
+	width:50%;
+}
+
+#Neymar{
+	width:50%;
+}
